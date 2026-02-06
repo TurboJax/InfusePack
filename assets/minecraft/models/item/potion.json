@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/potion_overlay",
+    "layer1": "item/potion"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "minecraft:custom_model_data": 999
+      },
+      "model": "infuse:item/aug"
+    }
+  ]
+}
