@@ -3,7 +3,7 @@
     {"type": "bitmap", "file": "infuse:effects/empty.png",                       "ascent": 18, "height": 24, "chars": ["\ue901"]},
     {"type": "bitmap", "file": "infuse:effects/empty_aug.png",                   "ascent": 18, "height": 24, "chars": ["\ue902"]},
     {"type": "bitmap", "file": "infuse:apophis/cover.png",                       "ascent": 250,"height": 420,"chars": ["\ue903"]},
-    ("type": "space", "advances": {"\ue904": 2, "\ue905": 6}},
+    {"type": "space", "advances": {"\ue904": 2, "\ue905": 6}},
 
     {"type": "bitmap", "file": "infuse:effects/emerald/regular.png",           "ascent": 18, "height": 24, "chars": ["\ue001"]},
     {"type": "bitmap", "file": "infuse:effects/emerald/regular_active.png",    "ascent": 18, "height": 24, "chars": ["\ue101"]},
