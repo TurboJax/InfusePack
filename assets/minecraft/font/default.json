@@ -1,83 +1,32 @@
 {
   "providers": [
-    {"type": "bitmap", "file": "infuse:effects/empty.png",                       "ascent": 18, "height": 24, "chars": ["\ue901"]},
-    {"type": "bitmap", "file": "infuse:effects/empty_aug.png",                   "ascent": 18, "height": 24, "chars": ["\ue902"]},
+    {"type": "bitmap", "file": "infuse:icons/empty.png",                       "ascent": 18, "height": 24, "chars": ["\ue901"]},
+    {"type": "bitmap", "file": "infuse:icons/empty_aug.png",                   "ascent": 18, "height": 24, "chars": ["\ue902"]},
     {"type": "bitmap", "file": "infuse:apophis/cover.png",                       "ascent": 250,"height": 420,"chars": ["\ue903"]},
     {"type": "space", "advances": {"\ue904": 2, "\ue905": 6}},
 
-    {"type": "bitmap", "file": "infuse:effects/emerald/regular.png",           "ascent": 18, "height": 24, "chars": ["\ue001"]},
-    {"type": "bitmap", "file": "infuse:effects/emerald/regular_active.png",    "ascent": 18, "height": 24, "chars": ["\ue101"]},
-    {"type": "bitmap", "file": "infuse:effects/emerald/augmented.png",         "ascent": 18, "height": 24, "chars": ["\ue201"]},
-    {"type": "bitmap", "file": "infuse:effects/emerald/augmented_active.png",  "ascent": 18, "height": 24, "chars": ["\ue301"]},
-
-    {"type": "bitmap", "file": "infuse:effects/ender/regular.png",             "ascent": 18, "height": 24, "chars": ["\ue002"]},
-    {"type": "bitmap", "file": "infuse:effects/ender/regular_active.png",      "ascent": 18, "height": 24, "chars": ["\ue102"]},
-    {"type": "bitmap", "file": "infuse:effects/ender/augmented.png",           "ascent": 18, "height": 24, "chars": ["\ue202"]},
-    {"type": "bitmap", "file": "infuse:effects/ender/augmented_active.png",    "ascent": 18, "height": 24, "chars": ["\ue302"]},
-
-    {"type": "bitmap", "file": "infuse:effects/feather/regular.png",           "ascent": 18, "height": 24, "chars": ["\ue003"]},
-    {"type": "bitmap", "file": "infuse:effects/feather/regular_active.png",    "ascent": 18, "height": 24, "chars": ["\ue103"]},
-    {"type": "bitmap", "file": "infuse:effects/feather/augmented.png",         "ascent": 18, "height": 24, "chars": ["\ue203"]},
-    {"type": "bitmap", "file": "infuse:effects/feather/augmented_active.png",  "ascent": 18, "height": 24, "chars": ["\ue303"]},
-
-    {"type": "bitmap", "file": "infuse:effects/fire/regular.png",              "ascent": 18, "height": 24, "chars": ["\ue004"]},
-    {"type": "bitmap", "file": "infuse:effects/fire/regular_active.png",       "ascent": 18, "height": 24, "chars": ["\ue104"]},
-    {"type": "bitmap", "file": "infuse:effects/fire/augmented.png",            "ascent": 18, "height": 24, "chars": ["\ue204"]},
-    {"type": "bitmap", "file": "infuse:effects/fire/augmented_active.png",     "ascent": 18, "height": 24, "chars": ["\ue304"]},
-
-    {"type": "bitmap", "file": "infuse:effects/frost/regular.png",             "ascent": 18, "height": 24, "chars": ["\ue005"]},
-    {"type": "bitmap", "file": "infuse:effects/frost/regular_active.png",      "ascent": 18, "height": 24, "chars": ["\ue105"]},
-    {"type": "bitmap", "file": "infuse:effects/frost/augmented.png",           "ascent": 18, "height": 24, "chars": ["\ue205"]},
-    {"type": "bitmap", "file": "infuse:effects/frost/augmented_active.png",    "ascent": 18, "height": 24, "chars": ["\ue305"]},
-
-    {"type": "bitmap", "file": "infuse:effects/haste/regular.png",             "ascent": 18, "height": 24, "chars": ["\ue006"]},
-    {"type": "bitmap", "file": "infuse:effects/haste/regular_active.png",      "ascent": 18, "height": 24, "chars": ["\ue106"]},
-    {"type": "bitmap", "file": "infuse:effects/haste/augmented.png",           "ascent": 18, "height": 24, "chars": ["\ue206"]},
-    {"type": "bitmap", "file": "infuse:effects/haste/augmented_active.png",    "ascent": 18, "height": 24, "chars": ["\ue306"]},
-
-    {"type": "bitmap", "file": "infuse:effects/heart/regular.png",             "ascent": 18, "height": 24, "chars": ["\ue007"]},
-    {"type": "bitmap", "file": "infuse:effects/heart/regular_active.png",      "ascent": 18, "height": 24, "chars": ["\ue107"]},
-    {"type": "bitmap", "file": "infuse:effects/heart/augmented.png",           "ascent": 18, "height": 24, "chars": ["\ue207"]},
-    {"type": "bitmap", "file": "infuse:effects/heart/augmented_active.png",    "ascent": 18, "height": 24, "chars": ["\ue307"]},
-
-    {"type": "bitmap", "file": "infuse:effects/invis/regular.png",             "ascent": 18, "height": 24, "chars": ["\ue008"]},
-    {"type": "bitmap", "file": "infuse:effects/invis/regular_active.png",      "ascent": 18, "height": 24, "chars": ["\ue108"]},
-    {"type": "bitmap", "file": "infuse:effects/invis/augmented.png",           "ascent": 18, "height": 24, "chars": ["\ue208"]},
-    {"type": "bitmap", "file": "infuse:effects/invis/augmented_active.png",    "ascent": 18, "height": 24, "chars": ["\ue308"]},
-
-    {"type": "bitmap", "file": "infuse:effects/ocean/regular.png",             "ascent": 18, "height": 24, "chars": ["\ue009"]},
-    {"type": "bitmap", "file": "infuse:effects/ocean/regular_active.png",      "ascent": 18, "height": 24, "chars": ["\ue109"]},
-    {"type": "bitmap", "file": "infuse:effects/ocean/augmented.png",           "ascent": 18, "height": 24, "chars": ["\ue209"]},
-    {"type": "bitmap", "file": "infuse:effects/ocean/augmented_active.png",    "ascent": 18, "height": 24, "chars": ["\ue309"]},
-
-    {"type": "bitmap", "file": "infuse:effects/regen/regular.png",             "ascent": 18, "height": 24, "chars": ["\ue010"]},
-    {"type": "bitmap", "file": "infuse:effects/regen/regular_active.png",      "ascent": 18, "height": 24, "chars": ["\ue110"]},
-    {"type": "bitmap", "file": "infuse:effects/regen/augmented.png",           "ascent": 18, "height": 24, "chars": ["\ue210"]},
-    {"type": "bitmap", "file": "infuse:effects/regen/augmented_active.png",    "ascent": 18, "height": 24, "chars": ["\ue310"]},
-
-    {"type": "bitmap", "file": "infuse:effects/speed/regular.png",             "ascent": 18, "height": 24, "chars": ["\ue011"]},
-    {"type": "bitmap", "file": "infuse:effects/speed/regular_active.png",      "ascent": 18, "height": 24, "chars": ["\ue111"]},
-    {"type": "bitmap", "file": "infuse:effects/speed/augmented.png",           "ascent": 18, "height": 24, "chars": ["\ue211"]},
-    {"type": "bitmap", "file": "infuse:effects/speed/augmented_active.png",    "ascent": 18, "height": 24, "chars": ["\ue311"]},
-
-    {"type": "bitmap", "file": "infuse:effects/strength/regular.png",          "ascent": 18, "height": 24, "chars": ["\ue012"]},
-    {"type": "bitmap", "file": "infuse:effects/strength/regular_active.png",   "ascent": 18, "height": 24, "chars": ["\ue112"]},
-    {"type": "bitmap", "file": "infuse:effects/strength/augmented.png",        "ascent": 18, "height": 24, "chars": ["\ue212"]},
-    {"type": "bitmap", "file": "infuse:effects/strength/augmented_active.png", "ascent": 18, "height": 24, "chars": ["\ue312"]},
-
-    {"type": "bitmap", "file": "infuse:effects/thunder/regular.png",           "ascent": 18, "height": 24, "chars": ["\ue013"]},
-    {"type": "bitmap", "file": "infuse:effects/thunder/regular_active.png",    "ascent": 18, "height": 24, "chars": ["\ue113"]},
-    {"type": "bitmap", "file": "infuse:effects/thunder/augmented.png",         "ascent": 18, "height": 24, "chars": ["\ue213"]},
-    {"type": "bitmap", "file": "infuse:effects/thunder/augmented_active.png",  "ascent": 18, "height": 24, "chars": ["\ue313"]},
-
-    {"type": "bitmap", "file": "infuse:effects/apophis/regular.png",           "ascent": 18, "height": 24, "chars": ["\ue014"]},
-    {"type": "bitmap", "file": "infuse:effects/apophis/regular_active.png",    "ascent": 18, "height": 24, "chars": ["\ue114"]},
-    {"type": "bitmap", "file": "infuse:effects/apophis/augmented.png",         "ascent": 18, "height": 24, "chars": ["\ue214"]},
-    {"type": "bitmap", "file": "infuse:effects/apophis/augmented_active.png",  "ascent": 18, "height": 24, "chars": ["\ue314"]},
-
-    {"type": "bitmap", "file": "infuse:effects/thief/regular.png",             "ascent": 18, "height": 24, "chars": ["\ue015"]},
-    {"type": "bitmap", "file": "infuse:effects/thief/regular_active.png",      "ascent": 18, "height": 24, "chars": ["\ue115"]},
-    {"type": "bitmap", "file": "infuse:effects/thief/augmented.png",           "ascent": 18, "height": 24, "chars": ["\ue215"]},
-    {"type": "bitmap", "file": "infuse:effects/thief/augmented_active.png",    "ascent": 18, "height": 24, "chars": ["\ue315"]}
+    {
+      "type": "bitmap",
+      "file": "infuse:icons/effects.png",
+      "ascent": 18,
+      "height": 24,
+      "chars": [
+        "\ue001\ue101\ue201\ue301",
+        "\ue002\ue102\ue202\ue302",
+        "\ue003\ue103\ue203\ue303",
+        "\ue004\ue104\ue204\ue304",
+        "\ue005\ue105\ue205\ue305",
+        "\ue006\ue106\ue206\ue306",
+        "\ue007\ue107\ue207\ue307",
+        "\ue008\ue108\ue208\ue308",
+        "\ue009\ue109\ue209\ue309",
+        "\ue010\ue110\ue210\ue310",
+        "\ue011\ue111\ue211\ue311",
+        "\ue012\ue112\ue212\ue312",
+        "\ue013\ue113\ue213\ue313",
+        "\ue014\ue114\ue214\ue314",
+        "\ue015\ue115\ue215\ue315"
+      ]
+    }
   ]
 }
