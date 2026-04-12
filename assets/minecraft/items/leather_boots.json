@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "fallback": {"type":"minecraft:model", "model":"leather_boots"},
+    "cases": [
+      {
+        "when": "frost_boots",
+        "model": {
+          "type":"minecraft:model",
+          "model":"infuse:item/frost_boots"
+        }
+      }
+    ]
+  }
+}
