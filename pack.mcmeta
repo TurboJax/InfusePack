@@ -3,10 +3,10 @@
     "pack_format": 34,
     "description": "InfuseSMP Texture Pack by TurboJax",
     "min_format": 34,
-    "max_format": 75,
+    "max_format": 999,
     "supported_formats": {
       "min_inclusive": 34,
-      "max_inclusive": 75
+      "max_inclusive": 999
     }
   }
 }
