@@ -69,6 +69,6 @@
       ]
     },
     {"type": "bitmap", "file": "infuse:icons/empty.png", "ascent": 18, "height": 24, "chars": ["\uffff"]},
-    {"type": "space", "advances": {"\ufff2": 2, " ": 4, "\ufff6": 6}}
+    {"type": "space", "advances": {" ": 4}}
   ]
 }
